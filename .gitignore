@@ -30,3 +30,81 @@
 *.exe
 *.out
 *.app
+*.vsidx
+*.pdb
+*.tlog
+
+# =========================
+# Build / Compiled Files
+# =========================
+*.d
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.smod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+# =========================
+# Debug / Logs
+# =========================
+*.pdb
+*.tlog
+*.log
+
+# =========================
+# Visual Studio / VS Code
+# =========================
+
+# VS Code settings (optional: keep if you want shared settings)
+.vscode/
+
+# Visual Studio folder (important to ignore)
+.vs/
+
+# IntelliSense / index files
+*.vsidx
+
+# =========================
+# CMake (if you use it)
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+compile_commands.json
+
+# =========================
+# Build folders
+# =========================
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.swp
+*~
