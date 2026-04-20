@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\2-3 Activity Buffer Overflow Coding\\Buffer Overflow Coding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3129FD5-300E-44BB-88EE-C8CB402DA246}|Buffer Overflow Coding.vcxproj|C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\2-3 Activity Buffer Overflow Coding\\Buffer Overflow Coding\\BufferOverflow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3129FD5-300E-44BB-88EE-C8CB402DA246}|Buffer Overflow Coding.vcxproj|solutionrelative:BufferOverflow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BufferOverflow.cpp",
+              "DocumentMoniker": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\2-3 Activity Buffer Overflow Coding\\Buffer Overflow Coding\\BufferOverflow.cpp",
+              "RelativeDocumentMoniker": "BufferOverflow.cpp",
+              "ToolTip": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\2-3 Activity Buffer Overflow Coding\\Buffer Overflow Coding\\BufferOverflow.cpp",
+              "RelativeToolTip": "BufferOverflow.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T02:09:24.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
