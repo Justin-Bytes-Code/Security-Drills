@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25578A0A-D53D-40E7-B31A-954C92BC5770}|5-2 Activity Encryption Coding.vcxproj|C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25578A0A-D53D-40E7-B31A-954C92BC5770}|5-2 Activity Encryption Coding.vcxproj|solutionrelative:Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25578A0A-D53D-40E7-B31A-954C92BC5770}|5-2 Activity Encryption Coding.vcxproj|C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25578A0A-D53D-40E7-B31A-954C92BC5770}|5-2 Activity Encryption Coding.vcxproj|solutionrelative:5-2 Activity Encryption Coding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25578A0A-D53D-40E7-B31A-954C92BC5770}|5-2 Activity Encryption Coding.vcxproj|C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\decrytpteddatafile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{25578A0A-D53D-40E7-B31A-954C92BC5770}|5-2 Activity Encryption Coding.vcxproj|solutionrelative:decrytpteddatafile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25578A0A-D53D-40E7-B31A-954C92BC5770}|5-2 Activity Encryption Coding.vcxproj|C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\inputdatafile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{25578A0A-D53D-40E7-B31A-954C92BC5770}|5-2 Activity Encryption Coding.vcxproj|solutionrelative:inputdatafile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encryption.cpp",
+              "DocumentMoniker": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\Encryption.cpp",
+              "RelativeDocumentMoniker": "Encryption.cpp",
+              "ToolTip": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\Encryption.cpp",
+              "RelativeToolTip": "Encryption.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T09:57:59.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inputdatafile.txt",
+              "DocumentMoniker": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\inputdatafile.txt",
+              "RelativeDocumentMoniker": "inputdatafile.txt",
+              "ToolTip": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\inputdatafile.txt",
+              "RelativeToolTip": "inputdatafile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-27T09:59:13.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "decrytpteddatafile.txt",
+              "DocumentMoniker": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\decrytpteddatafile.txt",
+              "RelativeDocumentMoniker": "decrytpteddatafile.txt",
+              "ToolTip": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\decrytpteddatafile.txt",
+              "RelativeToolTip": "decrytpteddatafile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-28T18:21:38.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5-2 Activity Encryption Coding.cpp",
+              "DocumentMoniker": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding.cpp",
+              "RelativeDocumentMoniker": "5-2 Activity Encryption Coding.cpp",
+              "ToolTip": "C:\\Users\\barkb\\OneDrive\\Desktop\\School Work\\Secure Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding\\5-2 Activity Encryption Coding.cpp",
+              "RelativeToolTip": "5-2 Activity Encryption Coding.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T09:50:52.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
